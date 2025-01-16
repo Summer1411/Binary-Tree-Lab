@@ -24,7 +24,7 @@ public class BSTreeRunner
       test.inOrder();
       System.out.println("REVERSE ORDER");
       test.revOrder();
-      System.out.println(" ORDER");
+      System.out.println("PRE-ORDER");
 
    }
 }
